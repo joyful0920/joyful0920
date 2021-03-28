@@ -20,7 +20,7 @@
 <br><br>
 <h3 align="center"> Contact </h3>
 <p align="center">
-  <a href="https://www.notion.so/YongJun-s-Space-1ed728162fb544f2b06b3643b20be5db"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/YongJun-s-Space-1ed728162fb544f2b06b3643b20be5db"/></a>&nbsp
+  <a href="https://www.notion.so/YongJun-s-Space-1ed728162fb544f2b06b3643b20be5db"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/YongJun-s-Space-1ed728162fb544f2b06b3643b20be5db"/></a>&nbsp
   <a href="geunseong0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=geunseong0920@gmail.com"/></a>
 </p>
 <br>
