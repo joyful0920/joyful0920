@@ -22,8 +22,8 @@
 <h3 align="center"> Contact </h3>
 <p align="center">
   <a href="https://www.notion.so/YongJun-s-Space-1ed728162fb544f2b06b3643b20be5db"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/YongJun-s-Space-1ed728162fb544f2b06b3643b20be5db"/></a>&nbsp
-  <a href="https://velog.io/@joyfuljoyful"><img src="https://img.shields.io/badge/velog-00D564?style=flat-square&logo=V&logoColor=white&link=https://velog.io/@joyfuljoyful"/></a>&nbsp
-  <img src="https://img.shields.io/badge/geunseong0920@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.joyfuls.xyz/"><img src="https://img.shields.io/badge/velog-00D564?style=flat-square&logo=B&logoColor=white&link=https://www.joyfuls.xyz/"/></a>&nbsp
+  <img src="https://img.shields.io/badge/joyfuljoyful0920@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
 
