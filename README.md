@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yongjun&nbsp;Yi&fontSize=70&animation=twinkling)
 <br><br><br>
-<p align="center">
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful0920&count_private=true&show_icons=true&theme=tokyonight)] (https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyful0920)](https://solved.ac/joyful0920)
-</p>
+
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful0920&count_private=true&show_icons=true&theme=tokyonight)] (https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyful0920)](https://solved.ac/joyful0920)
 <br><br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
