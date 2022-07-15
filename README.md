@@ -2,7 +2,7 @@
 <br><br><br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful0920&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={joyfu0920})](https://solved.ac/{joyful0920})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyfu0920)](https://solved.ac/joyful0920)
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
