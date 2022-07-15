@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yongjun&nbsp;Yi&fontSize=70&animation=twinkling)
 <br><br><br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful0920)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful0920&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
