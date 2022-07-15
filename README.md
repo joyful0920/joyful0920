@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yongjun&nbsp;Yi&fontSize=70&animation=twinkling)
 <br><br><br>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyful0920)](https://solved.ac/joyful0920)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
