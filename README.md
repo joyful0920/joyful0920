@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.joyfuls.xyz/"><img src="https://img.shields.io/badge/Devlog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.joyful.icu/"/></a>&nbsp
+  <a href="https://www.joyful.icu/"><img src="https://img.shields.io/badge/Devlog-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.joyful.icu/"/></a>&nbsp
   <img src="https://img.shields.io/badge/joyfuljoyful0920@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
